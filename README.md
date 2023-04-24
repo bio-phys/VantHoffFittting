@@ -11,3 +11,16 @@ Currently, the package is not in a registry.  It must therefore be added by spec
 using Pkg; Pkg.add(url="https://github.com/bio-phys/VantHoffFitting")
 ```
 Users of older versions of Julia may need to wrap the contents of the brackets with `PackageSpec()`.  
+
+
+
+## Usage
+
+### Importing data
+
+The data should be of the type `Array{Float64,2}`, where the first column contains the temperatures `T` (in *K*) and the second column the logarithm of the equilibrium constant `ln_K` (dimensionless).  An optional third columns should contain associated uncertainties `∆ln_K` (dimensionless).  Users can read their data in from file as follows:
+```julia
+using DelimitedFiles
+
+data = readdlm(file_name)
+```
