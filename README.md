@@ -8,6 +8,6 @@ The package is written in the open-source programming language [Julia](https://g
 
 Currently, the package is not in a registry.  It must therefore be added by specifying a URL to the repository:
 ```julia
-using Pkg; Pkg.add(url="https://github.com/bio-phys/ForceSpectroscopyMLE")
+using Pkg; Pkg.add(url="https://github.com/bio-phys/VantHoffFitting")
 ```
 Users of older versions of Julia may need to wrap the contents of the brackets with `PackageSpec()`.  
