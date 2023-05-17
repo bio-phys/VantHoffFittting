@@ -35,9 +35,9 @@ model, spline_parameters = fit_data(data)
 ```
 It outputs a string `model` and an array `spline_parameters`, where the former contains information about the model that best fits the data (either "linear" or "reciprocal") and the latter gives the associated fit parameters.  These can then be used to evaluate the following built-in functions:
 ```julia
-ln_K(T, spline_parameters, model)
-ΔC_p(T, spline_parameters, model)
-ΔH(T, spline_parameters, model)
-ΔS(T, spline_parameters, model)
-ΔG(T, spline_parameters, model)
+ln_K(T, spline_parameters, model) # logarithm of equilibrium constant
+ΔC_p(T, spline_parameters, model) # isobaric heat capacity
+ΔH(T, spline_parameters, model) # enthalpy
+ΔS(T, spline_parameters, model) # entropy
+ΔG(T, spline_parameters, model) # Gibbs free energy
 ```
