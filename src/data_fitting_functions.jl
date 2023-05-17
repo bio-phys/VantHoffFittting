@@ -39,7 +39,7 @@ function fit_spline(N_knot, X, Y, σ, msteps=1000000, mode=:silent, psize=50, ti
     return best_fitness(result), spline_parameters
 end
 
-BIC(χ2_norm, N_knot, M) = 2*(N_knot-2)*log(M)/M + χ2_norm # Here, M denotes number of data points
+BIC(χ2_norm, N_knot, M) = (2*N_knot-2)*log(M)/M + χ2_norm # Here, M denotes number of data points
 
 function find_best_model(X, Y, σ, N_knot=collect(2:10), msteps=1000000, mode=:silent, psize=50, tint=10.0)
     N = length(N_knot)
