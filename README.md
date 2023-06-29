@@ -2,6 +2,16 @@
 
 
 
+## Try without installation
+
+Click this [link](https://notebooks.mpcdf.mpg.de/binder/v2/git/https%3A%2F%2Fgitlab.mpcdf.mpg.de%2Fjabuller%2Fvanthofffitting/HEAD?labpath=examples%2Fpipeline_example.ipynb) to launch a computational environment (JupyterLab) in the Cloud to try the `pipeline_example.ipynb` notebook.  
+
+**Importantly**, shut down JupyterLab properly using its menu (File -> Shut Down) to free resources for other users.  
+
+Note that the interactive session is only temporary and files will be deleted after termination (File -> Shut Down).  
+
+
+
 ## Installation
 
 The package is written in the open-source programming language [Julia](https://github.com/JuliaLang/julia), which can be downloaded from their [webpage](https://julialang.org/downloads/#download_julia).  
