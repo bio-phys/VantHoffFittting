@@ -1,5 +1,12 @@
 # VantHoffFitting
 
+This package provides a robust framework based on a two-state model to reliably extract temperature-dependent thermodynamic potentials (enthalpies, entropies and Gibbs free energies) and heat capacities from measurements of equilibrium constants at different temperatures.  
+
+For more details on the theoretical framework, please refer to the associated preprint:
+> J. T. Bullerjahn and S. M. Hanson, "Extracting thermodynamic properties from van ’t Hoff plots with emphasis on temperature-sensing ion channels", *bioRxiv* (2023). https://doi.org/10.1101/2023.06.02.543442
+
+Please cite the reference above if you use `VantHoffFitting` to analyze your data.  
+
 
 
 ## Try without installation
