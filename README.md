@@ -11,7 +11,7 @@ Please cite the reference above if you use `VantHoffFitting` to analyze your dat
 
 ## Try without installation
 
-Click this [link](https://jabuller.pages.mpcdf.de/vanthofffitting) to try the `pipeline_example.ipynb` notebook in a cloud environment.  
+Click this [link](https://jabuller.pages.mpcdf.de/vanthofffitting) to run the `pipeline_example.ipynb` notebook in a cloud environment.  
 
 You can either analyze the data sets found in `examples/mock_data/` or upload your own.  The interactive session is only temporary and files will be deleted after termination (File -> Shut Down).  
 
