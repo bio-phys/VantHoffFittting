@@ -4,11 +4,11 @@
 
 ## Try without installation
 
-Click this [link](https://jabuller.pages.mpcdf.de/vanthofffitting) to try the `pipeline_example.ipynb` notebook in a computational cloud environment.  
+Click this [link](https://jabuller.pages.mpcdf.de/vanthofffitting) to try the `pipeline_example.ipynb` notebook in a cloud environment.  
 
-**Importantly**, after use shut down JupyterLab properly using via the drop-down menu (File -> Shut Down) to free resources for other users.  
+You can either analyze the data sets found in `examples/mock_data/` or upload your own.  The interactive session is only temporary and files will be deleted after termination (File -> Shut Down).  
 
-You can either analyze the data sets provided by us or upload your own data.  The interactive session is only temporary and files will be deleted after termination (File -> Shut Down).  
+**Important:** Please shut down JupyterLab properly after use via the drop-down menu (File -> Shut Down) to free resources for other users.  
 
 
 
