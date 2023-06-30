@@ -1,4 +1,4 @@
-## Use VantHoffFitting to analyze your data -- No installation needed!
+## Use VantHoffFitting to analyze your data – No installation needed!
 
 Click the link below to launch a JupyterLab environment in the Cloud and try the `pipeline_example.ipynb` notebook.  
 
