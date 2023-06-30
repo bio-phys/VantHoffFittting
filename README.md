@@ -4,7 +4,7 @@
 
 ## Try without installation
 
-Click this [link](https://notebooks.mpcdf.mpg.de/binder/v2/git/https%3A%2F%2Fgitlab.mpcdf.mpg.de%2Fjabuller%2Fvanthofffitting/HEAD?labpath=examples%2Fpipeline_example.ipynb) to try the `pipeline_example.ipynb` notebook in a computational cloud environment.  
+Click this [link](https://jabuller.pages.mpcdf.de/vanthofffitting) to try the `pipeline_example.ipynb` notebook in a computational cloud environment.  
 
 **Importantly**, after use shut down JupyterLab properly using via the drop-down menu (File -> Shut Down) to free resources for other users.  
 
