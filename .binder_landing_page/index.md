@@ -1,13 +1,14 @@
-## Use VantHoffFitting without installation to analyze your data!
+## Use **VantHoffFitting** to analyze your data.  
+## No installation needed!
 
-Click the link below to launch a computational environment (JupyterLab) in the Cloud to try the pipeline_example notebook. 
+Click the link below to launch a JupyterLab environment in the Cloud and try the `pipeline_example.ipynb` notebook.  
+
+You can either analyze the data sets found in `examples/mock_data/` or upload your own (via the File Browser).  The interactive session is only temporary and files will be deleted after termination (File -> Shut Down).  The (possibly modified) notebook, as well as data files and figures that are exported, can be downloaded via the File Browser on the left-hand side.  
 
 ----
 
-**Importantly**, shut down JupyterLab properly using its menu (File -> Shut Down) to free resources for other users. 
+**Important:** Please shut down JupyterLab properly after use via the drop-down menu (File -> Shut Down) to free resources for other users. 
 
 ----
 
 [Link: Launch pipeline_example notebook on Binder!](https://notebooks.mpcdf.mpg.de/binder/v2/git/https%3A%2F%2Fgitlab.mpcdf.mpg.de%2Fjabuller%2Fvanthofffitting/HEAD?labpath=examples%2Fpipeline_example.ipynb)
-
-Note that the interactive session is only temporary and files will be deleted after termination (File -> Shut Down).
