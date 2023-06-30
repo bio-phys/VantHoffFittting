@@ -4,7 +4,7 @@
 
 ## Try without installation
 
-Click this [link](https://notebooks.mpcdf.mpg.de/binder/v2/git/https%3A%2F%2Fgitlab.mpcdf.mpg.de%2Fjabuller%2Fvanthofffitting/HEAD?labpath=examples%2Fpipeline_example.ipynb) to try the `pipeline_example.ipynb` notebook in a computational cloud environment.  
+Click this [link](https://notebooks.mpcdf.mpg.de/binder/v2/git/https%3A%2F%2Fgitlab.mpcdf.mpg.de%2Fjabuller%2Fvanthofffitting/HEAD?labpath=examples%2Fpipeline_example.ipynb) to try the `pipeline_example.ipynb` notebook in a cloud environment.  
 
 You can either analyze the data sets found in `examples/mock_data/` or upload your own.  The interactive session is only temporary and files will be deleted after termination (File -> Shut Down).  
 
