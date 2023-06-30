@@ -3,7 +3,7 @@
 
 Click the link below to launch a JupyterLab environment in the Cloud and try the `pipeline_example.ipynb` notebook.  
 
-You can either analyze the data sets found in `examples/mock_data/` or upload your own via the File Browser on the left-hand side.  The interactive session is only temporary and files will be deleted after termination (File -> Shut Down).  The (possibly modified) notebook, as well as data files and figures that are exported, can be downloaded via the File Browser.  
+You can either analyze the data sets found in `examples/mock_data/` or upload your own via the File Browser on the left-hand side.  The interactive session is only temporary and **files will be deleted after termination** (File -> Shut Down).  The (possibly modified) notebook, as well as data files and figures that are exported, can be downloaded via the File Browser.  
 
 ----
 
